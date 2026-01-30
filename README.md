@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hedi KSENTINI  
-**AI & Embedded Systems Engineer | Final-year Engineering Student**
+**Final-year Engineering Student Engineer | Signals & Systems Specialized | Focused on AI & data-driven solutions **
 
 <div align="center">
   
@@ -8,57 +8,10 @@
 [![Phone](https://img.shields.io/badge/Phone-+216_53_864_290-green?style=for-the-badge&logo=whatsapp)](tel:+21653864290)
 [![GitHub](https://img.shields.io/badge/GitHub-hediKS7-black?style=for-the-badge&logo=github)](https://github.com/hediKS7)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+%7C+Machine+Learning+%7C+Embedded+Systems;Computer+Vision+%7C+LLMs+%7C+Knowledge+Graphs;TinyML+%7C+Signal+Processing+%7C+ADAS)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+%7C+Machine+Learning+%7C+Signal+Processing;Computer+Vision+%7C+LLMs+%7C+Knowledge+Graphs;TinyML+%7C+Signal+Processing+%7C+ADAS)
 
 </div>
 
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🤖 Medical AI with Knowledge Graphs
-[![KG-RAG](https://github-readme-stats.vercel.app/api/pin/?username=hediKS7&repo=A-Deep-Dive-into-Medical-AI-with-Knowledge-Graphs&theme=radical&show_owner=true)](https://github.com/hediKS7/A-Deep-Dive-into-Medical-AI-with-Knowledge-Graphs)
-
-**LLM-based Knowledge Graph-augmented RAG system** for medical reasoning. Implemented **Yen's k-shortest paths** algorithm for fertility-related use cases.
-
-`Python` `LLMs` `Knowledge Graphs` `RAG` `Graph Algorithms` `LangChain`
-
----
-
-### 🚗 Electric Vehicle Routing Optimization
-[![EV Routing](https://github-readme-stats.vercel.app/api/pin/?username=hediKS7&repo=Electric-Vehicle-Routing&theme=radical&show_owner=true)](https://github.com/hediKS7/Electric-Vehicle-Routing)
-
-**Optimization algorithms for EV routing** with battery constraints using **heuristics & reinforcement learning**.
-
-`Python` `Operations Research` `Reinforcement Learning` `Optimization` `Jupyter`
-
----
-
-### 🔬 Smart Vibrational Sensor (Safran France)
-**AI-enabled sensor for aircraft engine diagnostics** using **TinyML on STM32** for real-time anomaly detection.
-
-`C++` `STM32` `TinyML` `Python` `Anomaly Detection` `CubeMX`
-
----
-
-### 📡 GPT_Scope_STM32 Oscilloscope
-[![GPT Scope](https://github-readme-stats.vercel.app/api/pin/?username=hediKS7&repo=GPT_Scope_STM32&theme=radical&show_owner=true)](https://github.com/hediKS7/GPT_Scope_STM32)
-
-**Real-time embedded oscilloscope** with STM32 for signal acquisition and processing.
-
-`C++` `Embedded Systems` `STM32` `Signal Processing`
-
-</div>
-
-## 💼 Professional Experience
-
-| **Position** | **Company** | **Period** | **Technologies** |
-|-------------|------------|------------|-----------------|
-| **AI Intern** | VISTASY | Jul-Aug 2025 | `Computer Vision` `NLP` `RAG` `LLMs` `LangChain` `MediaPipe` |
-| **Data Analyst Intern** | IBS | Jul 2024 | `HTML` `CSS` `JavaScript` `PHP` `MySQL` |
-| **Research Collaborator** | Safran France | 2024-2025 | `TinyML` `STM32` `C++` `Python` `Anomaly Detection` |
-| **Research Collaborator** | STMicroelectronics | 2023-2024 | `Embedded Systems` `STM32` `C++` `Signal Processing` |
 
 ## 🛠️ Technical Skills
 
