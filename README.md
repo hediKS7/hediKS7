@@ -1,14 +1,16 @@
-<!-- ===================== HERO SECTION ===================== -->
-<h1 align="center">👋 Hi, I'm <span style="color:#22D3EE;">Hedi KSENTINI</span></h1>
+<!-- ===================== HERO ===================== -->
+<div align="center">
 
-<h3 align="center">
-Final-year Engineering Student Engineer | Signals & Systems Specialized<br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/artificial-intelligence/artificial-intelligence-original.svg" width="90"/>
+
+<h1>Hi, I'm <span style="color:#22D3EE;">Hedi KSENTINI</span></h1>
+
+<h3>
+Final-year Engineering Student Engineer | Signals & Systems Specialized <br/>
 Focused on AI & data-driven solutions
 </h3>
 
 <br/>
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/hedi-ksentini/">
   <img src="https://img.shields.io/badge/LinkedIn-Hedi_Ksentini-blue?style=for-the-badge&logo=linkedin"/>
@@ -23,56 +25,54 @@ Focused on AI & data-driven solutions
   <img src="https://img.shields.io/badge/GitHub-hediKS7-black?style=for-the-badge&logo=github"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+%7C+Machine+Learning+%7C+Signal+Processing;Computer+Vision+%7C+LLMs+%7C+Knowledge+Graphs;TinyML+%7C+Signal+Processing+%7C+ADAS"/>
+
 </div>
 
 <hr/>
 
-<!-- ===================== SKILLS SECTION ===================== -->
+<!-- ===================== SKILLS ===================== -->
 <h2 align="center">🛠️ Technical Skills</h2>
 
 <div align="center">
 
 <table>
-  <tr>
-    <th align="center">Category</th>
-    <th align="center">Skills & Technologies</th>
-  </tr>
+<tr>
+<th>Category</th>
+<th>Technologies</th>
+</tr>
 
-  <tr>
-    <td align="center"><b>Programming</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python"/>
-      <img src="https://img.shields.io/badge/C++-Advanced-00599C?logo=c%2B%2B"/>
-      <img src="https://img.shields.io/badge/MATLAB-Intermediate-0076A8?logo=mathworks"/>
-      <img src="https://img.shields.io/badge/Java-Intermediate-007396?logo=java"/>
-      <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?logo=mysql"/>
-    </td>
-  </tr>
+<tr>
+<td align="center"><b>Programming</b></td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</td>
+</tr>
 
-  <tr>
-    <td align="center"><b>AI / ML</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PyTorch-Expert-EE4C2C?logo=pytorch"/>
-      <img src="https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?logo=tensorflow"/>
-      <img src="https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?logo=opencv"/>
-      <img src="https://img.shields.io/badge/Scikit--learn-Advanced-F7931E?logo=scikit-learn"/>
-    </td>
-  </tr>
+<tr>
+<td align="center"><b>AI / ML</b></td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+</td>
+</tr>
 
-  <tr>
-    <td align="center"><b>LLMs & NLP</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/LangChain-Advanced-00A67E?logo=langchain"/>
-      <img src="https://img.shields.io/badge/RAG-Advanced-FF6B6B"/>
-      <img src="https://img.shields.io/badge/Transformers-Advanced-FFD43B?logo=huggingface"/>
-    </td>
-  </tr>
+<tr>
+<td align="center"><b>LLMs & NLP</b></td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.svg" width="45"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/openai/openai-brand/main/assets/openai-icon.svg" width="40"/>
+</td>
+</tr>
 
 </table>
 
@@ -86,51 +86,59 @@ Focused on AI & data-driven solutions
 <div align="center">
 
 <table>
-  <tr>
-    <td>🔍 <b>Medical AI Reasoning Systems</b> with Knowledge Graphs</td>
-  </tr>
-  <tr>
-    <td>🤖 <b>Edge AI Deployment</b> with TinyML on embedded devices</td>
-  </tr>
-  <tr>
-    <td>🚗 <b>Autonomous Vehicle Perception</b> for ADAS applications</td>
-  </tr>
-  <tr>
-    <td>⚡ <b>EV Routing Optimization</b> with reinforcement learning</td>
-  </tr>
-  <tr>
-    <td>📚 <b>Open-source contributions</b> to AI/ML libraries</td>
-  </tr>
+<tr>
+<td>🔍 <b>Medical AI Reasoning Systems</b> with Knowledge Graphs</td>
+</tr>
+<tr>
+<td>🤖 <b>Edge AI Deployment</b> with TinyML on embedded devices</td>
+</tr>
+<tr>
+<td>🚗 <b>Autonomous Vehicle Perception</b> for ADAS applications</td>
+</tr>
+<tr>
+<td>⚡ <b>EV Routing Optimization</b> with reinforcement learning</td>
+</tr>
+<tr>
+<td>📚 <b>Open-source contributions</b> to AI/ML libraries</td>
+</tr>
 </table>
 
 </div>
 
 <hr/>
 
-<!-- ===================== COLLAB SECTION ===================== -->
+<!-- ===================== COLLAB ===================== -->
 <h2 align="center">🤝 Let's Collaborate!</h2>
 
 <div align="center">
 
 <table>
-  <tr>
-    <td>🔬 <b>Research opportunities</b> in AI/ML or Embedded Systems</td>
-  </tr>
-  <tr>
-    <td>🧑‍💼 <b>Internship positions</b> for 2026</td>
-  </tr>
-  <tr>
-    <td>🤖 <b>Collaborative projects</b> at the intersection of AI and Telecommunication</td>
-  </tr>
-  <tr>
-    <td>🌱 <b>Open-source contributions</b> in medical AI or sustainable tech</td>
-  </tr>
+<tr>
+<td>🔬 <b>Research opportunities</b> in AI/ML or Embedded Systems</td>
+</tr>
+<tr>
+<td>🧑‍💼 <b>Internship positions</b> for 2026</td>
+</tr>
+<tr>
+<td>🤖 <b>Collaborative projects</b> at the intersection of AI and Telecommunication</td>
+</tr>
+<tr>
+<td>🌱 <b>Open-source contributions</b> in medical AI or sustainable tech</td>
+</tr>
 </table>
 
 </div>
 
 <br/>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hediKS7&show_icons=true&theme=tokyonight"/>
+<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hediKS7&theme=tokyonight"/>
+</div>
+
+<br/>
+
 <p align="center">
-  <i>🚀 Building intelligent systems from signals to decisions.</i>
+<i>🚀 Building intelligent systems from signals to decisions.</i>
 </p>
