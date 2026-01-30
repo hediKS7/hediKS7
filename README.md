@@ -27,7 +27,7 @@ Focused on AI & data-driven solutions
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+%7C+Machine+Learning+%7C+Signal+Processing;Computer+Vision+%7C+LLMs+%7C+Knowledge+Graphs;TinyML+%7C+Signal+Processing+%7C+ADAS"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+%7C+Machine+Learning+%7C+Signal+Processing;Computer+Vision+%7C+LLMs+%7C+Knowledge+Graphs;RAG+%7C+Signal+Processing+%7C+ADAS"/>
 
 </div>
 
@@ -129,13 +129,6 @@ Focused on AI & data-driven solutions
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hediKS7&show_icons=true&theme=tokyonight"/>
-<br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hediKS7&theme=tokyonight"/>
-</div>
 
 <br/>
 
