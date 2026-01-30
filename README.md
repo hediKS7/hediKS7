@@ -60,19 +60,6 @@
 | **Research Collaborator** | Safran France | 2024-2025 | `TinyML` `STM32` `C++` `Python` `Anomaly Detection` |
 | **Research Collaborator** | STMicroelectronics | 2023-2024 | `Embedded Systems` `STM32` `C++` `Signal Processing` |
 
-## 🎓 Education
-
-**Ecole Polytechnique de Tunisie (EPT)**  
-*Multidisciplinary Engineering Degree - Signals & Systems*  
-📍 Tunis, Tunisia | 2023-Present  
-- Ranked top 10 of graduating class
-- Relevant coursework: Signal Processing, Computer Vision, AI, Data Science
-
-**Preparatory Institute for Engineering Studies - Sfax**  
-*Intensive Mathematics & Physics*  
-📍 Sfax, Tunisia | 2021-2023  
-- Ranked top 5% nationally in Mathematics-Physics
-
 ## 🛠️ Technical Skills
 
 <div align="center">
