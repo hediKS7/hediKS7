@@ -79,7 +79,7 @@ Focused on AI & data-driven solutions
 <hr/>
 
 <!-- ===================== CURRENT WORK ===================== -->
-<h2 align="center">🎯 Currently Working On</h2>
+<h2 align="center">🎯 Worked On</h2>
 
 <div align="center">
 
@@ -112,7 +112,7 @@ Focused on AI & data-driven solutions
 
 <table>
 <tr>
-<td>🔬 <b>Research opportunities</b> in AI/ML or Embedded Systems</td>
+<td>🔬 <b>Research opportunities</b> in AI/ML</td>
 </tr>
 <tr>
 <td>🧑‍💼 <b>Internship positions</b> for 2026</td>
@@ -121,7 +121,7 @@ Focused on AI & data-driven solutions
 <td>🤖 <b>Collaborative projects</b> at the intersection of AI and Telecommunication</td>
 </tr>
 <tr>
-<td>🌱 <b>Open-source contributions</b> in medical AI or sustainable tech</td>
+<td>🌱 <b>Open-source contributions</b> in medical AI , Automotive or sustainable tech</td>
 </tr>
 </table>
 
