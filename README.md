@@ -1,8 +1,6 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/artificial-intelligence/artificial-intelligence-original.svg" width="90"/>
-
 <h1>Hi, I'm <span style="color:#22D3EE;">Hedi KSENTINI</span></h1>
 
 <h3>
