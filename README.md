@@ -4,7 +4,6 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hedi_Ksentini-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hedi-ksentini/) 
-return a ready to paste
 [![Email](https://img.shields.io/badge/Email-hedi.ksentini@ept.ucar.tn-red?style=for-the-badge&logo=gmail)](mailto:hedi.ksentini@ept.ucar.tn)
 [![Phone](https://img.shields.io/badge/Phone-+216_53_864_290-green?style=for-the-badge&logo=whatsapp)](tel:+21653864290)
 [![GitHub](https://img.shields.io/badge/GitHub-hediKS7-black?style=for-the-badge&logo=github)](https://github.com/hediKS7)
