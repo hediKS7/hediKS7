@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hédi_Ksentini-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hedi-ksentini/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hedi_Ksentini-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hedi-ksentini/)
 [![Email](https://img.shields.io/badge/Email-hedi.ksentini@ept.ucar.tn-red?style=for-the-badge&logo=gmail)](mailto:hedi.ksentini@ept.ucar.tn)
 [![Phone](https://img.shields.io/badge/Phone-+216_53_864_290-green?style=for-the-badge&logo=whatsapp)](tel:+21653864290)
 [![GitHub](https://img.shields.io/badge/GitHub-hediKS7-black?style=for-the-badge&logo=github)](https://github.com/hediKS7)
@@ -12,15 +12,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-| ![](https://github-readme-stats.vercel.app/api?username=hediKS7&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=ffffff&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=hediKS7&theme=radical&hide_border=true&background=0d1117&stroke=22D3EE) |
-|:---:|:---:|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hediKS7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=ffffff&langs_count=8) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hediKS7&theme=react-dark&hide_border=true&bg_color=0d1117&title_color=22D3EE&color=22D3EE&line=10B981&point=FFFFFF&area=true&area_color=10B981) |
-
-</div>
 
 ## 🏆 Featured Projects
 
@@ -96,24 +87,6 @@
 
 </div>
 
-## 📜 Certifications
-
-<div align="center">
-
-[![NVIDIA](https://img.shields.io/badge/NVIDIA-Building_Agentic_AI_Applications-76B900?logo=nvidia&style=for-the-badge)](https://learn.nvidia.com/)
-[![IBM](https://img.shields.io/badge/IBM-Building_AI_Agents_with_RAG-054ADA?logo=ibm&style=for-the-badge)](https://www.ibm.com/training)
-[![IBM](https://img.shields.io/badge/IBM-Fine_Tuning_Transformers_and_Gen_AI_Models-054ADA?logo=ibm&style=for-the-badge)](https://www.ibm.com/training)
-
-</div>
-
-## 🌍 Languages
-
-| Language | Proficiency |
-|----------|------------|
-| **Arabic** | Native |
-| **French** | B2 (Professional) |
-| **English** | B2 (Professional) |
-
 ## 🎯 Currently Working On
 
 - 🔍 **Medical AI Reasoning Systems** with Knowledge Graphs
@@ -132,17 +105,3 @@ I'm actively seeking:
 
 <div align="center">
 
-```python
-# Quick collaboration check
-def should_we_collaborate(your_interest, my_skills):
-    if your_interest in ["AI", "ML", "Embedded", "Research"]:
-        return "Let's connect! 📧"
-    return "Still happy to chat! 👋"
-
-# Current availability
-availability = {
-    "2026 Internships": "Open",
-    "Research Projects": "Available",
-    "Freelance Work": "Selective",
-    "Open Source": "Active"
-}
